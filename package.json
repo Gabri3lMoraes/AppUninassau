@@ -19,5 +19,8 @@
     "platforms": [
       "android"
     ]
+  },
+  "dependencies": {
+    "remixicon": "^4.6.0"
   }
 }
